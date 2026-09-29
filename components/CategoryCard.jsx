@@ -14,7 +14,7 @@ export default function CategoryCard({ category, isSelected, onClick }) {
           : 'bg-white/80 backdrop-blur-sm text-stone-700 hover:bg-rose-50/50 border-rose-100 hover:border-rose-200 shadow-xs'
       }`}
     >
-      {/* Category Icon Badge */}
+      {/* Category Icon Badges */}
       <div
         className={`w-12 h-12 sm:w-14 sm:h-14 rounded-2xl flex items-center justify-center text-2xl sm:text-3xl mb-2.5 transition-transform duration-300 group-hover:scale-110 ${
           isSelected
