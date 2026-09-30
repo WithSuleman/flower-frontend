@@ -1,0 +1,6 @@
+{
+  "name": "Bloomora - Flower E-Commerce",
+  "description": "A beautiful, modern, and colorful mini flower e-commerce store built with the MERN stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
